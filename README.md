@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 
 # <b>Introduction:</b>
-   <br>The Presentation Video of the project is located [here.](https://www.youtube.com/watch?v=R6euByfGaN4)</br>
+   <br>The Presentation Video of the project is located [here.](https://github.com/bmburja/RW-V0/blob/d15a28e20a1ac6cecc18f3f2f2e071bc2154fda9/Project%20Videos/MECA482_PRESENTATION_VIDEO.mp4)</br>
 
 Elderly individuals often use a cane to help maintain balance when walking; however, when they do not need the cane at a given moment, it will frequently fall onto the ground unless leaned on another object. The goal is to create a device that maintains a stable vertical orientation by using a dual axis reaction wheel set up. The system will be able to counteract an external force that would cause the system to fall over. 
 For simplicity, the system will use a single Inertial Wheel Pendulum to investigate and model the given scenario.
