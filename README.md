@@ -25,5 +25,9 @@ For simplicity, the system will use a single Inertial Wheel Pendulum to investig
 # <b>Modeling:</b>
 A visual representation of our model can be seen in the figure below.
 <p align="center"><br>
-<img src=>
+<img src=https://github.com/bmburja/RW-V0/blob/2428cbee41945481eb1b34a0fc19ec783a876252/images/FBD%20IWP.png>
 </br></p>
+<p align="center"><br>Free Body Diagram of Inverted Wheel Pendulum.</br>
+
+From the FBD, the relevant matrices needed to control the system will be determined. According to Hernandez-Guzman, these matrices to control the system are: 
+
