@@ -78,8 +78,9 @@ From the FBD, the relevant matrices needed to control the system will be determi
 
 
 # <b>Controller Design and Simulations:</b>
+The simulation was done in Coppelia. The basic system can be seen below, where two joints are implemendted. The joints are used to control the position of the pendulum arm and the angular velocity of the attached reaction wheel.
 
-
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq6.png></br>
 
 
 # <b>Appendix A - MATLab Code</b>
