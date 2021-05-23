@@ -29,9 +29,37 @@ A visual representation of our model can be seen in the figure below.
 </br></p>
 <p align="center"><br>Free Body Diagram of Inverted Wheel Pendulum.</br>
 
+
+In order to determine the mathematical representation of an inverted pendulum that is controlled by a reaction wheel, it is simplest to start by using the 2 euler-lagrangian equations shown in equation 1 and 2.
+
+
+The lagrangian for these equations is given by equation 3 and shows that it is equal to the sum of the kinetic energies of the arm and wheel and the potential energies of both as well.
+
+
+
+The kinetic energy of the armKais given as the sum of the kinetic energy of a rod rotating about its center and the kinetic energy of a mass at a given distance from the end of the arm that is moving along the circumference of a circle of radius lc. The kinetic energy of the wheel Kwis the same as the kinetic energy of the arm but the energy of the wheel must take into account that it is also rotating in addition to the arm rotating.
+
+
+
+The potential energy of each part needs to be based on the fact that the potential of the system will be 0 if the arm is ever pointed vertically down. This is accomplished using equations 6 and 7 for the arm and wheel respectively.
+
+Taking equations 4, 5, 6, and 7 and putting them into equation 3 gives the entire lagrangian that can be used in equations 1 and 2. 
+
+
+The result from the euler-lagrange equations can be converted into a matrix equation shown in equation 9. This equation is the mathematical model that represents the pendulum at any given position and time. For this system, there is some inherit stabilizing factors in the motor itself that would assist in stabilizing the pendulum when it is inverted, but it has been elected to be ignored since it introduces another variable that must be accounted for and the change makes the system more consistent for a wider range of motors allowing for more flexibility in the design without needing to redesign the system.
+
+
+
+
 From the FBD, the relevant matrices needed to control the system will be determined. According to Hernandez-Guzman, these matrices to control the system are: 
 
 
+
+
+
+
+
+# <b>Controller Design and Simulations:</b>
 
 
 
