@@ -33,11 +33,8 @@ A visual representation of our model can be seen in the figure below.
 <p align="center"><br>Nomenclature</br>
 <p align="center"><br>x₀ = x-axis</br>
 <p align="center"><br>xp = pendulum's position relative to the x-axis</br>
-<p align="center"><br>xc = cart’s position relative to the x-axis</br>
 <p align="center"><br>y₀ =y-axis</br>
 <p align="center"><br>yp = pendulum's position relative to the y-axis</br>
-<p align="center"><br>yc = cart’s position relative to the y-axis</br>
-<p align="center"><br>Mc = mass of cart</br>
 <p align="center"><br>Mp = mass of pendulum</br>
 <p align="center"><br>lp= length of pendulum(cane)</br>
 
