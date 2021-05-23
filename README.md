@@ -70,27 +70,27 @@ The result from the euler-lagrange equations can be converted into a matrix equa
 
 A few simplifications can be made here shown below.
 
-<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq7.png></br>
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/93bfd54e9b109359664d23005afcd0e9fd07f829/images/eq7.png></br>
 
 Equation 9 can be rearranged into equation 10
 
-<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq8.png></br>
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/93bfd54e9b109359664d23005afcd0e9fd07f829/images/eq8.png></br>
 
 From here, equation 10 can be converted into a state space equation. To start the state vector can be defined as:
 
-<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq9.png></br>
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/93bfd54e9b109359664d23005afcd0e9fd07f829/images/eq9.png></br>
 
 and the inverse of D as:
 
-<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq10.png></br>
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/93bfd54e9b109359664d23005afcd0e9fd07f829/images/eq10.png></br>
 
 Taking these statements and using them with equation 10 gives equation 11.
 
-<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq11.png></br>
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/93bfd54e9b109359664d23005afcd0e9fd07f829/images/eq11.png></br>
 
  Taking the partial derivative of equation 11 with respect to x gives our value for A in our standard state space equation and taking the partial derivative with respect to 𝜏 gives the value of B. Our final state space equations are shown in equation 12.
  
- <p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq12.png></br>
+ <p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/93bfd54e9b109359664d23005afcd0e9fd07f829/images/eq12.png></br>
 
 # <b>Controller Design and Simulations:</b>
 The simulation was done in Coppelia. The basic system can be seen below, where two joints are implemendted. The joints are used to control the position of the pendulum arm and the angular velocity of the attached reaction wheel.
