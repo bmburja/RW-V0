@@ -161,4 +161,4 @@ The simulation was done in Coppelia. The basic system can be seen below, where t
 <br>[1] V. M. Hernandez-Guzman and R. Silva-Ortigoza, Automatic Control with Experiments, Springer, 2019</br>
 <br>[2] [Control Tutorials for MATLAB and SIMULINK - Inverted Pendulum](https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling)
 </br>
-<br>[3] M. W. Spong, P. Corke, and R. Lozano, Nonlinear control of the reaction wheel pendulum,Automatica, vol. 37, no. 11, pp. 1845–1851, 2001</br>
+<br>[3] [M. W. Spong, P. Corke, and R. Lozano, Nonlinear control of the reaction wheel pendulum,Automatica, vol. 37, no. 11, pp. 1845–1851, 2001](https://github.com/bmburja/RW-V0/blob/a968ad0e825794ac178022c1206daffe6f3a64e6/Refernces/Nonlinear%20control%20of%20the%20Reaction%20Wheel%20Pendulum.pdf)</br>
