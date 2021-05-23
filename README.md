@@ -21,3 +21,9 @@ For simplicity, the system will use a single Inertial Wheel Pendulum to investig
 
 
 <p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/25d6ed7213d246b611cf08faee7377e1f79d8742/images/Machine%20Diagram.png></br>
+
+# <b>Modeling:</b>
+A visual representation of our model can be seen in the figure below.
+<p align="center"><br>
+<img src=>
+</br></p>
