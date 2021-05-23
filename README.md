@@ -97,3 +97,5 @@ From the FBD, the relevant matrices needed to control the system will be determi
 
 # <b>References</b>
 <br>[1] V. M. Hernandez-Guzman and R. Silva-Ortigoza, Automatic Control with Experiments, Springer, 2019</br>
+<br>[2] [Control Tutorials for MATLAB and SIMULINK - Inverted Pendulum](https://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling)
+</br>
