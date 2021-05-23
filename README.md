@@ -96,6 +96,11 @@ The simulation was done in Coppelia. The basic system can be seen below, where t
 
 <p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/3cea1949681bbf2a3f6dd9b79ae28f654c8f90f7/images/Coppeliasim%20Model.png></br>
 
+<p align="center"><br> Control Architecture of dynamic wheel within a linear state space</br>
+
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/96c6955041bea459b3a7b3196f7295af5c2f8156/images/Control%20Architecture.png></br>
+
+
 
 A couple challenges experienced throughout the design project was mainly implementing the MATLAB codes into simulation of CoppeliaSim. Being first exposed to CoppeliaSim tested the team’s effort in troubleshooting the integration of the files. Backtrack of instructions provided by the instructor was taken and followed as perceived. From there, the team was back on track in importing the MATLAB files into Coppelia and performing the pendulum simulation pertaining to the cane design. One minor challenge from the beginning use of Coppelia is the axis of modeling compared to SOLIDWORKS are different, to which only took a small amount of time to familiarize the defaulted projection of axis.
 
