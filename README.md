@@ -102,7 +102,8 @@ The simulation was done in Coppelia. The basic system can be seen below, where t
 
 
 
-A couple challenges experienced throughout the design project was mainly implementing the MATLAB codes into simulation of CoppeliaSim. Being first exposed to CoppeliaSim tested the team’s effort in troubleshooting the integration of the files. Backtrack of instructions provided by the instructor was taken and followed as perceived. From there, the team was back on track in importing the MATLAB files into Coppelia and performing the pendulum simulation pertaining to the cane design. One minor challenge from the beginning use of Coppelia is the axis of modeling compared to SOLIDWORKS are different, to which only took a small amount of time to familiarize the defaulted projection of axis.
+The major difficulty that presented itself during the design process of the inverted pendulum would be completing the control system architecture. Relating the dynamics of the reaction wheel to d the linear state space equation by using torque, τ, difficulty persisted when trying to implement pole shift. Using two revolving joints, a static base and stick base were created with connection for Api matlab files imported in the project file. While no simulation could be properly implemented the CoppelaSim file will still be made available for inspection.
+
 
 # <b>Appendix A - MATLab Code</b>
 <br>Closed Loop Model:</br>
