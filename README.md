@@ -30,6 +30,19 @@ A visual representation of our model can be seen in the figure below.
 <p align="center"><br>Free Body Diagram of Inverted Wheel Pendulum.</br>
 
 
+<p align="center"><br>Nomenclature</br>
+<p align="center"><br>x₀ = x-axis</br>
+<p align="center"><br>xp = pendulum's position relative to the x-axis</br>
+<p align="center"><br>xc = cart’s position relative to the x-axis</br>
+<p align="center"><br>y₀ =y-axis</br>
+<p align="center"><br>yp = pendulum's position relative to the y-axis</br>
+<p align="center"><br>yc = cart’s position relative to the y-axis</br>
+<p align="center"><br>Mc = mass of cart</br>
+<p align="center"><br>Mp = mass of pendulum</br>
+<p align="center"><br>lp= length of pendulum(cane)</br>
+
+
+
 In order to determine the mathematical representation of an inverted pendulum that is controlled by a reaction wheel, it is simplest to start by using the 2 euler-lagrangian equations shown in equation 1 and 2.
 
 <p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/5b186209effb578b7aac4ecb571f1dca85dbd544/images/eq1.png></br>
