@@ -17,4 +17,7 @@ For simplicity, the system will use a single Inertial Wheel Pendulum to investig
  A capabilites database, functional viewpoint, and proposed machine design were created. This step is critical in the Control System Design process where the intial steps to all projects is to establish goals, potential variables, and specifications of the system. The following pictures will reflect the Capabilies Database, functional viewpoint, and proposed machine design repectively. 
 <p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/fa0d6d871337030d437b4f272b933bfcbbb3a5e2/images/capabilites%20database.png></br>
 
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/25d6ed7213d246b611cf08faee7377e1f79d8742/images/functional%20viewpoint.png></br>
 
+
+<p align="center"><br><img src=https://github.com/bmburja/RW-V0/blob/25d6ed7213d246b611cf08faee7377e1f79d8742/images/Machine%20Diagram.png></br>
