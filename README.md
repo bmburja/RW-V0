@@ -92,3 +92,8 @@ From the FBD, the relevant matrices needed to control the system will be determi
 
 <br>% Verify closed-loop eigenvalues of A_new or A_cl</br>
 <br>Vp_ = eig(A-B*K);</br>
+
+
+
+# <b>References</b>
+<br>[1] V. M. Hernandez-Guzman and R. Silva-Ortigoza, Automatic Control with Experiments, Springer, 2019</br>
